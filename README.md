@@ -2,4 +2,4 @@
 Demo video link:
 https://drive.google.com/file/d/19oiRdNgNPq-KYIO4wQIqOX1K4BdwBNVs/view?usp=share_link
 Dashboard1 public link:
-https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730/Dashboard1
