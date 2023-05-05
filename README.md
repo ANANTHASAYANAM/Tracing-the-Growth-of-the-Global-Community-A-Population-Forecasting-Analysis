@@ -7,3 +7,9 @@ https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730
 
 Dashboard2 public link:
 https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730/Dashboard2
+
+Dashboard3 public link:
+https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730/Dashboard3
+
+Story public link:
+https://public.tableau.com/app/profile/ananthasayanam.m/viz/Book1_16832586486730/Story1
